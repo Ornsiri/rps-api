@@ -1,4 +1,4 @@
-package com.example.rps.rps_api;
+package com.example.rps_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

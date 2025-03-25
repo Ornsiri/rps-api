@@ -1,4 +1,4 @@
-package com.example.rps.rps_api;
+package com.example.rps_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
